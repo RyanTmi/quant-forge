@@ -1,2 +1,1 @@
-# quant-forge
- 
+# Quant Forge
