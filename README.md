@@ -40,6 +40,22 @@ The [examples/](examples/) directory contains example notebooks demonstrating ho
 
 - [volatility_surface](examples/volatility_surface.ipynb) notebook shows how to generate and plot an implied volatility surface for a given stock.
 
+### Marimo
+
+I'm now using [marimo](https://marimo.io) for notebooks creation. To use `marimo`, install it with your package manager and run
+
+```sh
+marimo edit volatility_surface.py
+```
+
+for editing mode or run
+
+```sh
+marimo run volatility_surface.py
+```
+
+for application mode.
+
 ## Installation
 
 Clone the repository and install the required dependencies:
